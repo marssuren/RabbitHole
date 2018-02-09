@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 1eb575fea97a959429bc5680cce21569
+timeCreated: 1518192133
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TEX6_0
+    21300002: TEX6_1
+    21300004: TEX6_2
+    21300006: TEX6_3
+    21300008: TEX6_4
+    21300010: TEX6_5
+    21300012: TEX6_6
+    21300014: TEX6_7
+    21300016: TEX6_8
+    21300018: TEX6_9
+    21300020: TEX6_10
+    21300022: TEX6_11
+    21300024: TEX6_12
+    21300026: TEX6_13
+    21300028: TEX6_14
+    21300030: TEX6_15
+    21300032: TEX6_16
+    21300034: TEX6_17
+    21300036: TEX6_18
+    21300038: TEX6_19
+    21300040: TEX6_20
+    21300042: TEX6_21
+    21300044: TEX6_22
+    21300046: TEX6_23
+    21300048: TEX6_24
+    21300050: TEX6_25
+    21300052: TEX6_26
+    21300054: TEX6_27
+    21300056: TEX6_28
+    21300058: TEX6_29
+    21300060: TEX6_30
+    21300062: TEX6_31
+    21300064: TEX6_32
+    21300066: TEX6_33
+    21300068: TEX6_34
+    21300070: TEX6_35
+    21300072: TEX6_36
+    21300074: TEX6_37
+    21300076: TEX6_38
+    21300078: TEX6_39
+    21300080: TEX6_40
+    21300082: TEX6_41
+    21300084: TEX6_42
+    21300086: TEX6_43
+    21300088: TEX6_44
+    21300090: TEX6_45
+    21300092: TEX6_46
+    21300094: TEX6_47
+    21300096: TEX6_48
+    21300098: TEX6_49
+    21300100: TEX6_50
+    21300102: TEX6_51
+    21300104: TEX6_52
+    21300106: TEX6_53
+    21300108: TEX6_54
+    21300110: TEX6_55
+    21300112: TEX6_56
+    21300114: TEX6_57
+    21300116: TEX6_58
+    21300118: TEX6_59
+    21300120: TEX6_60
+    21300122: TEX6_61
+    21300124: TEX6_62
+    21300126: TEX6_63
+    21300128: TEX6_64
+    21300130: TEX6_65
+    21300132: TEX6_66
+    21300134: TEX6_67
+    21300136: TEX6_68
+    21300138: TEX6_69
+    21300140: TEX6_70
+    21300142: TEX6_71
+    21300144: TEX6_72
+    21300146: TEX6_73
+    21300148: TEX6_74
+    21300150: TEX6_75
+    21300152: TEX6_76
+    21300154: TEX6_77
+    21300156: TEX6_78
+    21300158: TEX6_79
+    21300160: TEX6_80
+    21300162: TEX6_81
+    21300164: TEX6_82
+    21300166: TEX6_83
+    21300168: TEX6_84
+    21300170: TEX6_85
+    21300172: TEX6_86
+    21300174: TEX6_87
+    21300176: TEX6_88
+    21300178: TEX6_89
+    21300180: TEX6_90
+    21300182: TEX6_91
+    21300184: TEX6_92
+    21300186: TEX6_93
+    21300188: TEX6_94
+    21300190: TEX6_95
+    21300192: TEX6_96
+    21300194: TEX6_97
+    21300196: TEX6_98
+    21300198: TEX6_99
+    21300200: TEX6_100
+    21300202: TEX6_101
+    21300204: TEX6_102
+    21300206: TEX6_103
+    21300208: TEX6_104
+    21300210: TEX6_105
+    21300212: TEX6_106
+    21300214: TEX6_107
+    21300216: TEX6_108
+    21300218: TEX6_109
+    21300220: TEX6_110
+    21300222: TEX6_111
+    21300224: TEX6_112
+    21300226: TEX6_113
+    21300228: TEX6_114
+    21300230: TEX6_115
+    21300232: TEX6_116
+    21300234: TEX6_117
+    21300236: TEX6_118
+    21300238: TEX6_119
+    21300240: TEX6_120
+    21300242: TEX6_121
+    21300244: TEX6_122
+    21300246: TEX6_123
+    21300248: TEX6_124
+    21300250: TEX6_125
+    21300252: TEX6_126
+    21300254: TEX6_127
+    21300256: TEX6_128
+    21300258: TEX6_129
+    21300260: TEX6_130
+    21300262: TEX6_131
+    21300264: TEX6_132
+    21300266: TEX6_133
+    21300268: TEX6_134
+    21300270: TEX6_135
+    21300272: TEX6_136
+    21300274: TEX6_137
+    21300276: TEX6_138
+    21300278: TEX6_139
+    21300280: TEX6_140
+    21300282: TEX6_141
+    21300284: TEX6_142
+    21300286: TEX6_143
+    21300288: TEX6_144
+    21300290: TEX6_145
+    21300292: TEX6_146
+    21300294: TEX6_147
+    21300296: TEX6_148
+    21300298: TEX6_149
+    21300300: TEX6_150
+    21300302: TEX6_151
+    21300304: TEX6_152
+    21300306: TEX6_153
+    21300308: TEX6_154
+    21300310: TEX6_155
+    21300312: TEX6_156
+    21300314: TEX6_157
+    21300316: TEX6_158
+    21300318: TEX6_159
+    21300320: TEX6_160
+    21300322: TEX6_161
+    21300324: TEX6_162
+    21300326: TEX6_163
+    21300328: TEX6_164
+    21300330: TEX6_165
+    21300332: TEX6_166
+    21300334: TEX6_167
+    21300336: TEX6_168
+    21300338: TEX6_169
+    21300340: TEX6_170
+    21300342: TEX6_171
+    21300344: TEX6_172
+    21300346: TEX6_173
+    21300348: TEX6_174
+    21300350: TEX6_175
+    21300352: TEX6_176
+    21300354: TEX6_177
+    21300356: TEX6_178
+    21300358: TEX6_179
+    21300360: TEX6_180
+    21300362: TEX6_181
+    21300364: TEX6_182
+    21300366: TEX6_183
+    21300368: TEX6_184
+    21300370: TEX6_185
+    21300372: TEX6_186
+    21300374: TEX6_187
+    21300376: TEX6_188
+    21300378: TEX6_189
+    21300380: TEX6_190
+    21300382: TEX6_191
+    21300384: TEX6_192
+    21300386: TEX6_193
+    21300388: TEX6_194
+    21300390: TEX6_195
+    21300392: TEX6_196
+    21300394: TEX6_197
+    21300396: TEX6_198
+    21300398: TEX6_199
+    21300400: TEX6_200
+    21300402: TEX6_201
+    21300404: TEX6_202
+    21300406: TEX6_203
+    21300408: TEX6_204
+    21300410: TEX6_205
+    21300412: TEX6_206
+    21300414: TEX6_207
+    21300416: TEX6_208
+    21300418: TEX6_209
+    21300420: TEX6_210
+    21300422: TEX6_211
+    21300424: TEX6_212
+    21300426: TEX6_213
+    21300428: TEX6_214
+    21300430: TEX6_215
+    21300432: TEX6_216
+    21300434: TEX6_217
+    21300436: TEX6_218
+    21300438: TEX6_219
+    21300440: TEX6_220
+    21300442: TEX6_221
+    21300444: TEX6_222
+    21300446: TEX6_223
+    21300448: TEX6_224
+    21300450: TEX6_225
+    21300452: TEX6_226
+    21300454: TEX6_227
+    21300456: TEX6_228
+    21300458: TEX6_229
+    21300460: TEX6_230
+    21300462: TEX6_231
+    21300464: TEX6_232
+    21300466: TEX6_233
+    21300468: TEX6_234
+    21300470: TEX6_235
+    21300472: TEX6_236
+    21300474: TEX6_237
+    21300476: TEX6_238
+    21300478: TEX6_239
+    21300480: TEX6_240
+    21300482: TEX6_241
+    21300484: TEX6_242
+    21300486: TEX6_243
+    21300488: TEX6_244
+    21300490: TEX6_245
+    21300492: TEX6_246
+    21300494: TEX6_247
+    21300496: TEX6_248
+    21300498: TEX6_249
+    21300500: TEX6_250
+    21300502: TEX6_251
+    21300504: TEX6_252
+    21300506: TEX6_253
+    21300508: TEX6_254
+    21300510: TEX6_255
+    21300512: TEX6_256
+    21300514: TEX6_257
+    21300516: TEX6_258
+    21300518: TEX6_259
+    21300520: TEX6_260
+    21300522: TEX6_261
+    21300524: TEX6_262
+    21300526: TEX6_263
+    21300528: TEX6_264
+    21300530: TEX6_265
+    21300532: TEX6_266
+    21300534: TEX6_267
+    21300536: TEX6_268
+    21300538: TEX6_269
+    21300540: TEX6_270
+    21300542: TEX6_271
+    21300544: TEX6_272
+    21300546: TEX6_273
+    21300548: TEX6_274
+    21300550: TEX6_275
+    21300552: TEX6_276
+    21300554: TEX6_277
+    21300556: TEX6_278
+    21300558: TEX6_279
+    21300560: TEX6_280
+    21300562: TEX6_281
+    21300564: TEX6_282
+    21300566: TEX6_283
+    21300568: TEX6_284
+    21300570: TEX6_285
+    21300572: TEX6_286
+    21300574: TEX6_287
+    21300576: TEX6_288
+    21300578: TEX6_289
+    21300580: TEX6_290
+    21300582: TEX6_291
+    21300584: TEX6_292
+    21300586: TEX6_293
+    21300588: TEX6_294
+    21300590: TEX6_295
+    21300592: TEX6_296
+    21300594: TEX6_297
+    21300596: TEX6_298
+    21300598: TEX6_299
+    21300600: TEX6_300
+    21300602: TEX6_301
+    21300604: TEX6_302
+    21300606: TEX6_303
+    21300608: TEX6_304
+    21300610: TEX6_305
+    21300612: TEX6_306
+    21300614: TEX6_307
+    21300616: TEX6_308
+    21300618: TEX6_309
+    21300620: TEX6_310
+    21300622: TEX6_311
+    21300624: TEX6_312
+    21300626: TEX6_313
+    21300628: TEX6_314
+    21300630: TEX6_315
+    21300632: TEX6_316
+    21300634: TEX6_317
+    21300636: TEX6_318
+    21300638: TEX6_319
+    21300640: TEX6_320
+    21300642: TEX6_321
+    21300644: TEX6_322
+    21300646: TEX6_323
+    21300648: TEX6_324
+    21300650: TEX6_325
+    21300652: TEX6_326
+    21300654: TEX6_327
+    21300656: TEX6_328
+    21300658: TEX6_329
+    21300660: TEX6_330
+    21300662: TEX6_331
+    21300664: TEX6_332
+    21300666: TEX6_333
+    21300668: TEX6_334
+    21300670: TEX6_335
+    21300672: TEX6_336
+    21300674: TEX6_337
+    21300676: TEX6_338
+    21300678: TEX6_339
+    21300680: TEX6_340
+    21300682: TEX6_341
+    21300684: TEX6_342
+    21300686: TEX6_343
+    21300688: TEX6_344
+    21300690: TEX6_345
+    21300692: TEX6_346
+    21300694: TEX6_347
+    21300696: TEX6_348
+    21300698: TEX6_349
+    21300700: TEX6_350
+    21300702: TEX6_351
+    21300704: TEX6_352
+    21300706: TEX6_353
+    21300708: TEX6_354
+    21300710: TEX6_355
+    21300712: TEX6_356
+    21300714: TEX6_357
+    21300716: TEX6_358
+    21300718: TEX6_359
+    21300720: TEX6_360
+    21300722: TEX6_361
+    21300724: TEX6_362
+    21300726: TEX6_363
+    21300728: TEX6_364
+    21300730: TEX6_365
+    21300732: TEX6_366
+    21300734: TEX6_367
+    21300736: TEX6_368
+    21300738: TEX6_369
+    21300740: TEX6_370
+    21300742: TEX6_371
+    21300744: TEX6_372
+    21300746: TEX6_373
+    21300748: TEX6_374
+    21300750: TEX6_375
+    21300752: TEX6_376
+    21300754: TEX6_377
+    21300756: TEX6_378
+    21300758: TEX6_379
+    21300760: TEX6_380
+    21300762: TEX6_381
+    21300764: TEX6_382
+    21300766: TEX6_383
+    21300768: TEX6_384
+    21300770: TEX6_385
+    21300772: TEX6_386
+    21300774: TEX6_387
+    21300776: TEX6_388
+    21300778: TEX6_389
+    21300780: TEX6_390
+    21300782: TEX6_391
+    21300784: TEX6_392
+    21300786: TEX6_393
+    21300788: TEX6_394
+    21300790: TEX6_395
+    21300792: TEX6_396
+    21300794: TEX6_397
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEX6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1767
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1767
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_2
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1767
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1486
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1486
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_5
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1486
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1205
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1205
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_8
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1205
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_10
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 924
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_11
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 924
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 643
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_14
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 643
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_16
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 362
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_17
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 362
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_19
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 81
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TEX6_20
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 81
+        width: 555
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

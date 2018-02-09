@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d79ca52142f57ee45976b94fbeec74b1
-timeCreated: 1517932697
+timeCreated: 1518191820
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -90,12 +90,12 @@ TextureImporter:
       name: appletree_01_0
       rect:
         serializedVersion: 2
-        x: 528
-        y: 0
-        width: 496
-        height: 598
+        x: 0
+        y: 11
+        width: 1024
+        height: 1013
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

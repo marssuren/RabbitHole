@@ -11,6 +11,7 @@ CtrlNames = {
 	GameMain="GameMainCtrl",
 	Login="LoginCtrl",
 	Share="ShareCtrl",
+	Ready="ReadyCtrl",
 }
 
 PanelNames = {
@@ -25,6 +26,7 @@ PanelNames = {
 	GameMainPanel="GameMainPanel",
 	LoginPanel="LoginPanel",
 	SharePanel="SharePanel",
+	ReadyPanel="ReadyPanel",
 }
 
 --协议类型--
