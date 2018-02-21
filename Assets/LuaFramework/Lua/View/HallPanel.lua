@@ -11,6 +11,11 @@ function HallPanel.Awake(_gameObject)
 end
 
 function HallPanel.InitPanel()
+	this.ExpeditionBtn=transform:FindChild("Expedition").gameObject		--获取"出征"按钮
+
+
+
+
 	this.CreateRoomBtn=transform:FindChild("CreateRoomBtn").gameObject		--获取"创建房间"按钮
 	this.EnterRoomBtn=transform:FindChild("EnterRoomBtn").gameObject		--获取"进入房间"按钮
 	this.SettingBtn=transform:FindChild("ConfigBtn").gameObject				--获取"设置"按钮

@@ -36,6 +36,6 @@ function ReadyCtrl.OnCreate(_gameObject)
     message:AddToggleValueListener(RulePanel.ChangShuMahjongToggle,this.OnChangShuMahjongToggleValueChanged)
     message:AddToggleValueListener(RulePanel.HongZhongMahjongToggle,this.OnHongZhongMahjongToggleValueChanged)
 end
-function ReadyCtrl:OnReadyBtnClick()        --
+function ReadyCtrl:OnReadyBtnClick()        --准备按钮点击事件
 
 end

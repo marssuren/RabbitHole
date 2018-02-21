@@ -83,6 +83,10 @@ function HallCtrl.OnAddRoomCardBtnClick(_gameObject)		--增加房卡按钮点击
 	local tStoreCtrl = CtrlManager.GetCtrl(CtrlNames.Store)
 	tStoreCtrl:Show()
 end
+function HallCtrl.OnExpeditionBtnClick(_gameObject)		--出征按钮点击事件
+	local tMapCtrl=CtrlManager.GetCtrl(CtrlNames.Map)
+	tMapCtrl:Show()
+end
 
 
 

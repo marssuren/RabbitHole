@@ -12,6 +12,7 @@ CtrlNames = {
 	Login="LoginCtrl",
 	Share="ShareCtrl",
 	Ready="ReadyCtrl",
+	Map="MapCtrl",				--关卡选择面板
 }
 
 PanelNames = {
@@ -27,6 +28,7 @@ PanelNames = {
 	LoginPanel="LoginPanel",
 	SharePanel="SharePanel",
 	ReadyPanel="ReadyPanel",
+	MapPanel="MapPanel",			--关卡选择面板
 }
 
 --协议类型--
